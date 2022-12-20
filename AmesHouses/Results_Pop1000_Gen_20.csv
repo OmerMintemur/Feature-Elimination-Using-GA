@@ -1,0 +1,11 @@
+,AverageFitness,BestFitness,SelectedFeatures
+0,0.37029753584988817,0.3229346206921863,"['MSSubClass', 'LotArea', 'Street', 'LotShape', 'Condition1', 'Condition2', 'BldgType', 'HouseStyle', 'RoofStyle', 'HeatingQC', 'TotRmsAbvGrd', 'PavedDrive', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'MiscVal', 'MoSold', 'YrSold']"
+1,0.3493257556117097,0.2892231920781808,"['LandSlope', 'Condition1', 'Condition2', 'HouseStyle', 'RoofStyle', 'Heating', 'HeatingQC', '2ndFlrSF', 'LowQualFinSF', 'TotRmsAbvGrd', 'PoolArea', 'MoSold']"
+2,0.3287325829077499,0.2589640362608538,"['LotArea', 'LandContour', 'RoofStyle', 'RoofMatl', 'ExterCond', 'LowQualFinSF', 'KitchenAbvGr', '3SsnPorch', 'ScreenPorch', 'PoolArea', 'MoSold', 'YrSold', 'SaleCondition']"
+3,0.30422666108041807,0.16416376926620127,"['LandSlope', 'Condition1', 'Condition2', 'RoofMatl', 'ExterCond', 'Heating', 'LowQualFinSF', 'MoSold']"
+4,0.26719073823205164,0.1310791609850111,"['Condition2', 'RoofStyle', 'RoofMatl', 'LowQualFinSF', 'PoolArea', 'MoSold']"
+5,0.2191702004090481,0.10425481858250314,"['LandSlope', 'Condition2', 'RoofMatl', 'LowQualFinSF', '3SsnPorch', 'PoolArea', 'MoSold']"
+6,0.18571588591756513,0.09359231631280203,"['Condition2', 'RoofMatl', 'LowQualFinSF', 'PoolArea']"
+7,0.16423416422847786,0.08589252895354338,"['Street', 'LandSlope', 'Condition2', 'LowQualFinSF', 'BedroomAbvGr', 'PoolArea']"
+8,0.15419152812486406,0.08462071538576749,"['Condition2', 'RoofMatl', 'BedroomAbvGr', 'PoolArea']"
+9,0.14954158998726577,0.08462071538576749,"['Condition2', 'RoofMatl', 'BedroomAbvGr', 'PoolArea']"

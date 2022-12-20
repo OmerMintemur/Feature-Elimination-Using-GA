@@ -1,0 +1,11 @@
+,AverageFitness,BestFitness,SelectedFeatures
+0,0.36983110882157527,0.3403586644700104,"['LotArea', 'LotConfig', 'Neighborhood', 'Condition1', 'BldgType', 'OverallCond', 'YearRemodAdd', 'RoofMatl', 'ExterCond', 'Heating', 'HeatingQC', '2ndFlrSF', 'FullBath', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'MoSold']"
+1,0.35234652206600686,0.3190900120006117,"['LotArea', 'LotShape', 'LotConfig', 'Condition1', 'BldgType', 'OverallCond', 'RoofMatl', 'ExterCond', 'Heating', 'HeatingQC', 'FullBath', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'MoSold']"
+2,0.3393438289885995,0.3159080437383862,"['Street', 'LandContour', 'Condition1', 'RoofMatl', 'ExterCond', 'Heating', 'HeatingQC', 'FullBath', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'MoSold', 'SaleCondition']"
+3,0.32526500591798985,0.294976057116516,"['Street', 'LandContour', 'Condition1', 'RoofMatl', 'ExterCond', 'Heating', 'HeatingQC', 'KitchenAbvGr', 'TotRmsAbvGrd', 'OpenPorchSF', '3SsnPorch', 'YrSold']"
+4,0.3097225700734627,0.25875621054720266,"['Street', 'Condition1', 'RoofMatl', 'ExterCond', 'Heating', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'MoSold']"
+5,0.29734167981447623,0.24969949147502596,"['Street', 'LandSlope', 'Condition1', 'RoofMatl', 'ExterCond', 'Heating', 'OpenPorchSF', '3SsnPorch', 'MiscVal', 'YrSold']"
+6,0.28286846065881505,0.18743415255244777,"['Street', 'LandSlope', 'Condition1', 'RoofMatl', 'ExterCond', 'Heating', 'KitchenAbvGr', '3SsnPorch', 'MoSold', 'YrSold']"
+7,0.2607129372219619,0.17492300001900277,"['Street', 'Condition1', 'RoofMatl', 'ExterCond', 'Heating', '3SsnPorch', 'MiscVal', 'YrSold']"
+8,0.2230326926255166,0.14872676946710459,"['Street', 'LandSlope', 'RoofMatl', 'ExterCond', 'Heating', '3SsnPorch', 'MiscVal', 'YrSold']"
+9,0.2105986938496045,0.10568576405164483,"['Street', 'LandSlope', 'RoofMatl', 'Heating', '3SsnPorch', 'MiscVal', 'YrSold']"

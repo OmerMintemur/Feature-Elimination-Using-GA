@@ -1,0 +1,20 @@
+Before Feature Selection
+Random Forest Regressor Train Performance  0.03527446758592057
+Random Forest Regressor Test Performance  0.25444460415658804
+Adaboost Regressor Train Performance  0.7181852912468116
+Adaboost Regressor Test Performance 0.729750058711195
+Lasso Train Performance  1.336778211789427
+Lasso Test Performance 1.3106960720039365
+['MedInc' 'HouseAge' 'AveOccup' 'Latitude' 'Longitude']
+After Feature Selection
+Random Forest Regressor Train Performance  0.03527446758592057
+Random Forest Regressor Test Performance  0.25444460415658804
+Adaboost Regressor Train Performance  0.7181852912468116
+Adaboost Regressor Test Performance 0.729750058711195
+Lasso Train Performance  1.336778211789427
+Lasso Test Performance 1.3106960720039365
+
+Process finished with exit code 0
+
+
+['AveRooms', 'Latitude', 'Longitude']
