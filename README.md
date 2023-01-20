@@ -1,3 +1,3 @@
 # Feature-Elimination-Using-GA
 Simple GA approach for elimination of the features while keeping the error rates low in house price prediction
-Use FeatureSelectionWithGA.py as a main code
+Use FeatureSelectionWithGA.py as the main code
